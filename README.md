@@ -2,6 +2,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To create project from scratch, you can run:
+
+### `sudo npm i -g create-react-app`
+
+Set Up the Development Environment.
+
+### `create-react-app counter-app`
+
+Create the React App.
+
+### `npm install bootstrap`
+
+Install Bootstrap.
+
+### `import 'bootstrap/dist/css/bootstrap.css';` // index.js
+
+Import Bootstrap into project.
+
 In the project directory, you can run:
 
 ### `npm start`
